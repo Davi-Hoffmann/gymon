@@ -1,2 +1,2 @@
-# gymon
-Sistema de Academia desenvolvido em grupo como projeto da faculdade.
+Projeto GymON
+Alunos: Davi Hoffmann, Pedro Freiberger, Leonardo Branco e Vicente Freiberger
